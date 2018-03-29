@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    bip21 (0.1.0)
+    bip21 (0.1.1)
 
 GEM
   remote: https://rubygems.org/
